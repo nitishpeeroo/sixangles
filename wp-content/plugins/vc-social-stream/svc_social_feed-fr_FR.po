@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visual Composer - Social Streams With Carousel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-11 21:54+0000\n"
+"PO-Revision-Date: 2017-09-11 21:55+0000\n"
+"Last-Translator: leoturbet <leo@lafree.fr>\n"
+"Language-Team: French (France)\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: inc/all_function.php:316
+msgid "Read More..."
+msgstr "En savoir plus"
+
+#: inc/all_function.php:558
+msgid "Published on"
+msgstr "Publié le"
+
+#: inc/all_function.php:561 inc/all_function.php:561
+msgid "SHOW MORE"
+msgstr "Voir plus"
+
+#: inc/all_function.php:561
+msgid "SHOW LESS"
+msgstr "Voir moins"
+
+#: addons/social-stream/social-stream-shortcode.php:182
+msgid "Show More"
+msgstr "Voir plus"
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Visual Composer - Social Streams With Carousel"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://plugin.saragna.com/vc-addon"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hitesh Khunt"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.saragna.com/Hitesh-Khunt"
+msgstr ""

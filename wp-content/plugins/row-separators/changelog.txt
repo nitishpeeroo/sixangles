@@ -1,0 +1,23 @@
+Version 1.2 - April 13, 2016
+============================
+
+* Now compiled differently for speed and reliability.
+* Removed dependency for jQuery for faster script loading.
+* Fixed bug in IE11 that prevented separators from showing up.
+
+Version 1.1.1 - August 24, 2015
+===============================
+
+* Fixed an issue where custom SVGs would be ignored outright by recent copies of Visual Composer. Fixed by storing the custom SVG differently.
+
+Version 1.1 - August 6, 2015
+============================
+
+* Due to popular demand, now you can add your own SVG separators :)
+* Fixed error that shows up when adding a top separator to the top-most row or a bottom separator to the bottom-most row
+* Now makes sure that separators can overflow out of VC rows
+
+Version 1.0
+===========
+
+* First release

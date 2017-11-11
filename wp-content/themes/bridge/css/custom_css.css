@@ -1,0 +1,121 @@
+
+
+.q_counter_holder.center {
+    padding: 15px 40px;
+}
+
+.portfolio_main_holder .item_holder.subtle_vertical_hover .icons_holder a {
+    background-color: #fff;
+    color: #f95c55;
+}
+
+.q_progress_bar .progress_title_holder {
+    margin: 0 0 2px;
+}
+
+.q_icon_with_title .icon_text_holder h5.icon_title {
+    font-size: 14px;
+}
+
+.q_icon_with_title.left_from_title.custom_icon_image.tiny .icon_text_holder .icon_holder {
+    width: 16px!important;
+    padding: 7px 15px 0px 0;
+}
+
+.q_icon_with_title .icon_text_inner {
+    padding: 0;
+}
+
+.qode-instagram-feed li {
+    padding: 0 1px!important;
+    margin: 0 0 2px!important;
+}
+
+.qode-instagram-feed {
+    margin-left: 0;
+    margin-right: -2px;
+}
+
+.title.title_size_medium h1 {
+    text-transform: none;
+}
+
+.wpcf7 form.wpcf7-form p {
+    margin-bottom: 14px;
+}
+
+header .header_inner_left {
+    left: 30px;
+}
+
+@media only screen and (min-width: 768px) {
+.side_menu_button>a.side_menu_button_link span {
+    border-left: 1px solid #ebebeb;
+    padding: 7px 0 7px 15px;
+}
+.side_menu_button a:last-child {
+    padding: 0;
+}
+.qode_search_form .qode_search_close {
+    right: 86px;
+}
+.header_bottom {
+    padding: 0 25px;
+}
+}
+
+.side_menu_button>a.search_button {
+    padding-bottom: 6px;
+}
+
+.footer_top .widget_nav_menu ul li {
+    padding: 0 0 19px;
+}
+
+.portfolio_detail.portfolio_single_follow h6 {
+    text-transform: uppercase;
+}
+
+.portfolio_detail .info {
+    margin: 0 0 14px;
+}
+
+.portfolio_main_holder .item_holder .portfolio_title {
+    margin-bottom: 0px;
+}
+
+@media only screen and (min-width: 1001px) {
+.qode_search_form .qode_icon_in_search {
+    padding: 0 0 0 32px;
+}
+}
+
+.breadcrumbs, .breadcrumb .current, .breadcrumb a {
+    font-size: 17px;
+}
+
+.portfolio_navigation .portfolio_next a, .portfolio_navigation .portfolio_prev a {   
+     border-radius: 0px;
+}
+
+@media only screen and (max-width: 1000px) {
+.breadcrumb {
+    display: none;
+}
+.title.title_size_medium h1 {
+    font-size: 36px;
+    line-height: 43px;
+}
+
+.page-id-5 .projects_holder_outer{
+margin-bottom: -5px;
+}
+
+}
+
+@media only screen and (max-width: 600px) {
+.title.title_size_medium h1 {
+    font-size: 27px;
+    line-height: 33px;
+}
+}

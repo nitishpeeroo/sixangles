@@ -1,0 +1,564 @@
+# Copyright (C) 2016 Row Separators
+# This file is distributed under the same license as the Row Separators package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Row Separators\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
+"Language: en_US\n"
+
+#: class-plugin.php:52
+msgid "Automatic Updates"
+msgstr "Automatic Updates"
+
+#: class-plugin.php:53
+msgid "Keep Row Separators updated by entering your purchase code here."
+msgstr "Keep Row Separators updated by entering your purchase code here."
+
+#: class-plugin.php:91
+msgid "Get Customer Support"
+msgstr "Get Customer Support"
+
+#: class-plugin.php:95
+msgid "Get More Plugins"
+msgstr "Get More Plugins"
+
+#: class-row-separators.php:63, class-row-separators.php:85
+msgid "Row Separator"
+msgstr "Row Separator"
+
+#: class-row-separators.php:66
+msgid "A cool top/bottom separator for your row."
+msgstr "A cool top/bottom separator for your row."
+
+#: class-row-separators.php:68
+msgid "Row Adjustments"
+msgstr "Row Adjustments"
+
+#: class-row-separators.php:73
+msgid "Row Separator Type / Location"
+msgstr "Row Separator Type / Location"
+
+#: class-row-separators.php:76
+msgid "Top Separator"
+msgstr "Top Separator"
+
+#: class-row-separators.php:77
+msgid "Bottom Separator"
+msgstr "Bottom Separator"
+
+#: class-row-separators.php:79
+msgid "Choose whether this is a top or bottom separator."
+msgstr "Choose whether this is a top or bottom separator."
+
+#: class-row-separators.php:80
+msgid ""
+"Separators are meant to be full-width, please adjust your row settings to "
+"make it stretch to the whole width of the page."
+msgstr ""
+"Separators are meant to be full-width, please adjust your row settings to "
+"make it stretch to the whole width of the page."
+
+#: class-row-separators.php:88
+msgid "Choose the design of the row separator."
+msgstr "Choose the design of the row separator."
+
+#: class-row-separators.php:92
+msgid "Flip Separator Horizontally"
+msgstr "Flip Separator Horizontally"
+
+#: class-row-separators.php:95
+msgid "Flip the separator horizontally"
+msgstr "Flip the separator horizontally"
+
+#: class-row-separators.php:97
+msgid "You can flip the separator horizontally for more variation."
+msgstr "You can flip the separator horizontally for more variation."
+
+#: class-row-separators.php:101
+msgid "Height Scale"
+msgstr "Height Scale"
+
+#: class-row-separators.php:104
+msgid ""
+"You can scale the separator to be larger or smaller. Use value between 0 and "
+"1 to make the separator smaller, and more than 1 to make it larger."
+msgstr ""
+"You can scale the separator to be larger or smaller. Use value between 0 and "
+"1 to make the separator smaller, and more than 1 to make it larger."
+
+#: class-row-separators.php:108
+msgid "Decoration 1 Color"
+msgstr "Decoration 1 Color"
+
+#: class-row-separators.php:111
+msgid ""
+"Separator designs have 1-2 decoration colors, pick the color for the first "
+"decoration here."
+msgstr ""
+"Separator designs have 1-2 decoration colors, pick the color for the first "
+"decoration here."
+
+#: class-row-separators.php:115
+msgid "Decoration 2 Color"
+msgstr "Decoration 2 Color"
+
+#: class-row-separators.php:118
+msgid ""
+"Separator designs have 1-2 decoration colors, pick the color for the second "
+"decoration here."
+msgstr ""
+"Separator designs have 1-2 decoration colors, pick the color for the second "
+"decoration here."
+
+#: class-row-separators.php:122
+msgid "Decoration 1 Opacity"
+msgstr "Decoration 1 Opacity"
+
+#: class-row-separators.php:125, class-row-separators.php:132
+msgid ""
+"A value of 0-1. 0 means fully transparent, 1 means fully opaque. Put 0 here "
+"to remove the decor."
+msgstr ""
+"A value of 0-1. 0 means fully transparent, 1 means fully opaque. Put 0 here "
+"to remove the decor."
+
+#: class-row-separators.php:129
+msgid "Decoration 2 Opacity"
+msgstr "Decoration 2 Opacity"
+
+#: class-row-separators.php:135, class-row-separators.php:143,
+#: class-row-separators.php:150, class-row-separators.php:158,
+#: class-row-separators.php:165, class-row-separators.php:173
+msgid "Stroke & Outlines"
+msgstr "Stroke & Outlines"
+
+#: class-row-separators.php:137
+msgid "Main Outline / Stroke Thickness"
+msgstr "Main Outline / Stroke Thickness"
+
+#: class-row-separators.php:140, class-row-separators.php:155,
+#: class-row-separators.php:170
+msgid "Place a number greater than zero here to enable outlines"
+msgstr "Place a number greater than zero here to enable outlines"
+
+#: class-row-separators.php:145
+msgid "Main Outline / Stroke Color"
+msgstr "Main Outline / Stroke Color"
+
+#: class-row-separators.php:152
+msgid "Decoration 1 Outline / Stroke Thickness"
+msgstr "Decoration 1 Outline / Stroke Thickness"
+
+#: class-row-separators.php:160
+msgid "Decoration 1 Outline / Stroke Color"
+msgstr "Decoration 1 Outline / Stroke Color"
+
+#: class-row-separators.php:167
+msgid "Decoration 2 Outline / Stroke Thickness"
+msgstr "Decoration 2 Outline / Stroke Thickness"
+
+#: class-row-separators.php:175
+msgid "Decoration 2 Outline / Stroke Color"
+msgstr "Decoration 2 Outline / Stroke Color"
+
+#: class-row-separators.php:180
+msgid "Custom Separator"
+msgstr "Custom Separator"
+
+#: class-row-separators.php:182
+msgid "Custom SVG Separator"
+msgstr "Custom SVG Separator"
+
+#: class-row-separators.php:185
+msgid ""
+"Selected your <strong>Row Separator</strong> as <em>Custom SVG</em> in the "
+"<strong>General tab</strong> to use your custom separator."
+msgstr ""
+"Selected your <strong>Row Separator</strong> as <em>Custom SVG</em> in the "
+"<strong>General tab</strong> to use your custom separator."
+
+#: class-row-separators.php:187
+msgid ""
+"If you want to add your own SVG separator, add the contents of your "
+"<code>&lt;svg></code> here (omit the <code>&lt;svg></code> tags) Here are a "
+"few rules you will need to follow to fully import your separators:"
+msgstr ""
+"If you want to add your own SVG separator, add the contents of your "
+"<code>&lt;svg></code> here (omit the <code>&lt;svg></code> tags) Here are a "
+"few rules you will need to follow to fully import your separators:"
+
+#: class-row-separators.php:189
+msgid ""
+"Make sure you create your SVG with a document dimension <strong>1600x200</"
+"strong>,"
+msgstr ""
+"Make sure you create your SVG with a document dimension <strong>1600x200</"
+"strong>,"
+
+#: class-row-separators.php:190
+msgid ""
+"Make sure your SVG is oriented as a <strong>top separator</strong> (the "
+"bottom of your SVG should take up the whole width of the document),"
+msgstr ""
+"Make sure your SVG is oriented as a <strong>top separator</strong> (the "
+"bottom of your SVG should take up the whole width of the document),"
+
+#: class-row-separators.php:191
+msgid ""
+"For shapes that line the edges of the document, make sure they go past or "
+"bleed through the edges. This is to prevent tiny gaps and outlines showing "
+"up on the sides of the separator,"
+msgstr ""
+"For shapes that line the edges of the document, make sure they go past or "
+"bleed through the edges. This is to prevent tiny gaps and outlines showing "
+"up on the sides of the separator,"
+
+#: class-row-separators.php:192
+msgid ""
+"You can add your own colors by adding your own style attributes in your "
+"paths,"
+msgstr ""
+"You can add your own colors by adding your own style attributes in your "
+"paths,"
+
+#: class-row-separators.php:193
+msgid ""
+"Add a <code>class=\"gambit_sep_main\"</code> to paths that you want to have "
+"the same background color as the row,"
+msgstr ""
+"Add a <code>class=\"gambit_sep_main\"</code> to paths that you want to have "
+"the same background color as the row,"
+
+#: class-row-separators.php:194
+msgid ""
+"Paths that have a <code>class=\"gambit_sep_decor1\"</code> will get "
+"<strong>Decoration #1</strong> settings applied to them,"
+msgstr ""
+"Paths that have a <code>class=\"gambit_sep_decor1\"</code> will get "
+"<strong>Decoration #1</strong> settings applied to them,"
+
+#: class-row-separators.php:195
+msgid ""
+"Paths that have a <code>class=\"gambit_sep_decor2\"</code> will get "
+"<strong>Decoration #2</strong> settings applied to them,"
+msgstr ""
+"Paths that have a <code>class=\"gambit_sep_decor2\"</code> will get "
+"<strong>Decoration #2</strong> settings applied to them,"
+
+#: class-row-separators.php:197
+msgid "Here are a few examples:"
+msgstr "Here are a few examples:"
+
+#: row-separators/lib/-dev-process-svg.php:57
+msgid "$name"
+msgstr "$name"
+
+#: row-separators/lib/svgs.php:20
+msgid "Abstract #1"
+msgstr "Abstract #1"
+
+#: row-separators/lib/svgs.php:30
+msgid "Abstract #2"
+msgstr "Abstract #2"
+
+#: row-separators/lib/svgs.php:40
+msgid "Abstract #3"
+msgstr "Abstract #3"
+
+#: row-separators/lib/svgs.php:51
+msgid "Abstract #4"
+msgstr "Abstract #4"
+
+#: row-separators/lib/svgs.php:65
+msgid "Arrow Down (Decor #1)"
+msgstr "Arrow Down (Decor #1)"
+
+#: row-separators/lib/svgs.php:75
+msgid "Arrow Down (Decor #2)"
+msgstr "Arrow Down (Decor #2)"
+
+#: row-separators/lib/svgs.php:85
+msgid "Arrow Down (Decor #3)"
+msgstr "Arrow Down (Decor #3)"
+
+#: row-separators/lib/svgs.php:95
+msgid "Arrow Inward Small (Decor #1)"
+msgstr "Arrow Inward Small (Decor #1)"
+
+#: row-separators/lib/svgs.php:105
+msgid "Arrow Inward Small (Decor #2)"
+msgstr "Arrow Inward Small (Decor #2)"
+
+#: row-separators/lib/svgs.php:117
+msgid "Arrow Outward Small (Decor #1)"
+msgstr "Arrow Outward Small (Decor #1)"
+
+#: row-separators/lib/svgs.php:127
+msgid "Arrow Outward Small (Decor #2)"
+msgstr "Arrow Outward Small (Decor #2)"
+
+#: row-separators/lib/svgs.php:139
+msgid "Arrow Side Down (Decor #1)"
+msgstr "Arrow Side Down (Decor #1)"
+
+#: row-separators/lib/svgs.php:149
+msgid "Arrow Side Down (Decor #2)"
+msgstr "Arrow Side Down (Decor #2)"
+
+#: row-separators/lib/svgs.php:159
+msgid "Arrow Side Down (Decor #3)"
+msgstr "Arrow Side Down (Decor #3)"
+
+#: row-separators/lib/svgs.php:169
+msgid "Arrow Side Up (Decor #1)"
+msgstr "Arrow Side Up (Decor #1)"
+
+#: row-separators/lib/svgs.php:179
+msgid "Arrow Side Up (Decor #2)"
+msgstr "Arrow Side Up (Decor #2)"
+
+#: row-separators/lib/svgs.php:189
+msgid "Arrow Side Up (Decor #3)"
+msgstr "Arrow Side Up (Decor #3)"
+
+#: row-separators/lib/svgs.php:199
+msgid "Arrow Up (Decor #1)"
+msgstr "Arrow Up (Decor #1)"
+
+#: row-separators/lib/svgs.php:209
+msgid "Arrow Up (Decor #2)"
+msgstr "Arrow Up (Decor #2)"
+
+#: row-separators/lib/svgs.php:219
+msgid "Arrow Up (Decor #3)"
+msgstr "Arrow Up (Decor #3)"
+
+#: row-separators/lib/svgs.php:229
+msgid "Clouds #1"
+msgstr "Clouds #1"
+
+#: row-separators/lib/svgs.php:238
+msgid "Clouds #2"
+msgstr "Clouds #2"
+
+#: row-separators/lib/svgs.php:248
+msgid "Clouds #3"
+msgstr "Clouds #3"
+
+#: row-separators/lib/svgs.php:257
+msgid "Curve Inward (Decor #1)"
+msgstr "Curve Inward (Decor #1)"
+
+#: row-separators/lib/svgs.php:267
+msgid "Curve Inward (Decor #2)"
+msgstr "Curve Inward (Decor #2)"
+
+#: row-separators/lib/svgs.php:277
+msgid "Curve Outward (Decor #1)"
+msgstr "Curve Outward (Decor #1)"
+
+#: row-separators/lib/svgs.php:287
+msgid "Curve Outward (Decor #2)"
+msgstr "Curve Outward (Decor #2)"
+
+#: row-separators/lib/svgs.php:297
+msgid "Curve Side (Decor #1)"
+msgstr "Curve Side (Decor #1)"
+
+#: row-separators/lib/svgs.php:307
+msgid "Curve Side (Decor #2)"
+msgstr "Curve Side (Decor #2)"
+
+#: row-separators/lib/svgs.php:317
+msgid "Dissolve Circle"
+msgstr "Dissolve Circle"
+
+#: row-separators/lib/svgs.php:401
+msgid "Dissolve Square"
+msgstr "Dissolve Square"
+
+#: row-separators/lib/svgs.php:521
+msgid "Envelope"
+msgstr "Envelope"
+
+#: row-separators/lib/svgs.php:543
+msgid "Envelope Slant"
+msgstr "Envelope Slant"
+
+#: row-separators/lib/svgs.php:565
+msgid "Fence"
+msgstr "Fence"
+
+#: row-separators/lib/svgs.php:576
+msgid "Fence Bend"
+msgstr "Fence Bend"
+
+#: row-separators/lib/svgs.php:587
+msgid "Film"
+msgstr "Film"
+
+#: row-separators/lib/svgs.php:596
+msgid "Film Slant"
+msgstr "Film Slant"
+
+#: row-separators/lib/svgs.php:605
+msgid "Gears"
+msgstr "Gears"
+
+#: row-separators/lib/svgs.php:616
+msgid "Grass"
+msgstr "Grass"
+
+#: row-separators/lib/svgs.php:632
+msgid "Grass Bend"
+msgstr "Grass Bend"
+
+#: row-separators/lib/svgs.php:648
+msgid "Mountains #1"
+msgstr "Mountains #1"
+
+#: row-separators/lib/svgs.php:660
+msgid "Mountains #2"
+msgstr "Mountains #2"
+
+#: row-separators/lib/svgs.php:679
+msgid "Mountains #3"
+msgstr "Mountains #3"
+
+#: row-separators/lib/svgs.php:694
+msgid "Perforated"
+msgstr "Perforated"
+
+#: row-separators/lib/svgs.php:703
+msgid "Perforated Slant"
+msgstr "Perforated Slant"
+
+#: row-separators/lib/svgs.php:712
+msgid "Pine Trees"
+msgstr "Pine Trees"
+
+#: row-separators/lib/svgs.php:722
+msgid "Pine Trees Bend"
+msgstr "Pine Trees Bend"
+
+#: row-separators/lib/svgs.php:732
+msgid "Side-Curve Inward (Decor #1)"
+msgstr "Side-Curve Inward (Decor #1)"
+
+#: row-separators/lib/svgs.php:742
+msgid "Side-Curve Inward (Decor #2)"
+msgstr "Side-Curve Inward (Decor #2)"
+
+#: row-separators/lib/svgs.php:752
+msgid "Side-Curve Outward (Decor #1)"
+msgstr "Side-Curve Outward (Decor #1)"
+
+#: row-separators/lib/svgs.php:762
+msgid "Side-Curve Outward (Decor #2)"
+msgstr "Side-Curve Outward (Decor #2)"
+
+#: row-separators/lib/svgs.php:772
+msgid "Slant (Decor #1)"
+msgstr "Slant (Decor #1)"
+
+#: row-separators/lib/svgs.php:782
+msgid "Slant (Decor #2)"
+msgstr "Slant (Decor #2)"
+
+#: row-separators/lib/svgs.php:792
+msgid "Slant (Decor #3)"
+msgstr "Slant (Decor #3)"
+
+#: row-separators/lib/svgs.php:802
+msgid "Slime"
+msgstr "Slime"
+
+#: row-separators/lib/svgs.php:812
+msgid "Straight"
+msgstr "Straight"
+
+#: row-separators/lib/svgs.php:822
+msgid "Triangles Large (Decor #1)"
+msgstr "Triangles Large (Decor #1)"
+
+#: row-separators/lib/svgs.php:832
+msgid "Triangles Large (Decor #2)"
+msgstr "Triangles Large (Decor #2)"
+
+#: row-separators/lib/svgs.php:842
+msgid "Triangles Large (Decor #3)"
+msgstr "Triangles Large (Decor #3)"
+
+#: row-separators/lib/svgs.php:852
+msgid "Triangles Small (Decor #1)"
+msgstr "Triangles Small (Decor #1)"
+
+#: row-separators/lib/svgs.php:862
+msgid "Triangles Small (Decor #2)"
+msgstr "Triangles Small (Decor #2)"
+
+#: row-separators/lib/svgs.php:872
+msgid "Water Bend"
+msgstr "Water Bend"
+
+#: row-separators/lib/svgs.php:882
+msgid "Water Wave Bend"
+msgstr "Water Wave Bend"
+
+#: row-separators/lib/svgs.php:892
+msgid "Water Large Wave"
+msgstr "Water Large Wave"
+
+#: row-separators/lib/svgs.php:905
+msgid "Water Wave (Decor #1)"
+msgstr "Water Wave (Decor #1)"
+
+#: row-separators/lib/svgs.php:915
+msgid "Water Wave (Decor #2)"
+msgstr "Water Wave (Decor #2)"
+
+#: row-separators/lib/svgs.php:925
+msgid "Water (Decor #1)"
+msgstr "Water (Decor #1)"
+
+#: row-separators/lib/svgs.php:935
+msgid "Water (Decor #2)"
+msgstr "Water (Decor #2)"
+
+#: row-separators/lib/svgs.php:945
+msgid "Wave Bend"
+msgstr "Wave Bend"
+
+#: row-separators/lib/svgs.php:955
+msgid "Wave Side (Decor #1)"
+msgstr "Wave Side (Decor #1)"
+
+#: row-separators/lib/svgs.php:965
+msgid "Wave Side (Decor #2)"
+msgstr "Wave Side (Decor #2)"
+
+#: row-separators/lib/svgs.php:975
+msgid "Wave (Decor #1)"
+msgstr "Wave (Decor #1)"
+
+#: row-separators/lib/svgs.php:985
+msgid "Wave (Decor #2)"
+msgstr "Wave (Decor #2)"
+
+#: row-separators/lib/svgs.php:1002
+msgid "Custom SVG"
+msgstr "Custom SVG"
